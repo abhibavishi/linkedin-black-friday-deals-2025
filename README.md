@@ -4,7 +4,7 @@ The ultimate collection of Black Friday deals for LinkedIn professionals, market
 
 **89% of B2B marketers** use LinkedIn for lead generation. Save big on the tools that matter.
 
-🔥 **50+ exclusive deals** | ⏰ **Updated daily** | ⭐ **Star to bookmark for 2026**
+🔥 **37+ verified deals** | ⏰ **Updated daily** | ⭐ **Star to bookmark for 2026**
 
 ---
 
@@ -58,6 +58,8 @@ Track your LinkedIn performance, understand what works, and optimize your conten
 | [Taplio](https://taplio.com/) | All-in-one LinkedIn tool for personal branding with analytics, scheduling, and AI content creation | Black Friday pricing coming soon | - |
 | [Shield Analytics](https://shieldapp.ai/) | Advanced LinkedIn analytics for personal profiles and company pages with deep insights | Check website for deals | - |
 | [Podawaa](https://podawaa.com/) | LinkedIn analytics and engagement pods for growing your reach organically | Seasonal offers available | - |
+| [SyncRange](https://syncrange.com) | Connect LinkedIn Ads data to Google Sheets, Looker Studio and BigQuery for advanced analytics and reporting | **BLACKFRIDAY2025** - 40% OFF any plan | - |
+| [Updately](https://updately.ai/) | Monitor and grow your product mentions in ChatGPT and customer conversations over Reddit, X, LinkedIn, Facebook | **BF2025** - 20% OFF forever | - |
 
 ---
 
@@ -70,7 +72,11 @@ Create engaging LinkedIn posts, carousels, videos, and visual content that stand
 | [Taplio Carousel Generator](https://taplio.com/carousel-generator) | Create beautiful LinkedIn carousels in minutes with templates and AI assistance | Part of Taplio subscription | - |
 | [Canva Pro](https://www.canva.com/pro/) | Design LinkedIn posts, carousels, and graphics with professional templates | Up to 50% off annual plans | Dec 31, 2025 |
 | [Typefully](https://typefully.com/) | Write, schedule, and analyze LinkedIn content with AI-powered suggestions | Black Friday deals announced soon | - |
-| [PostFlow](https://postflow.app/) | Social media scheduler to manage all LinkedIn content in one place | Check for Black Friday pricing | - |
+| [PostFlow](https://postflow.app/) | Social media scheduler to manage all LinkedIn content. One click, all platforms | **BF50MONTHLY** - 50% OFF monthly / **BF50YEARLY** - 50% OFF annual | - |
+| [PostSyncer](https://postsyncer.com) | AI-powered social media automation to manage and sync posts across multiple platforms including LinkedIn | **TONYDEAL** - 20% OFF for 12 months | - |
+| [TypeSmart](https://typesm.art/) | Automatically share your X posts on LinkedIn and BlueSky with custom repurposing rules for AI | **BLACKFRIDAY** - 42% OFF | - |
+| [Nuelink](https://www.nuelink.com/) | Automate LinkedIn scheduling, publishing, and content workflows with bulk scheduling, AI captions, and analytics | 30% OFF monthly & Up to 65% OFF yearly | - |
+| [LinkedMash](https://www.linkedmash.com) | Turn your LinkedIn saved posts into organized knowledge. Import, tag, search, export to Notion/Sheets/Airtable with AI insights | **TONYDEALS2025** - 30% OFF | - |
 
 ---
 
@@ -176,16 +182,16 @@ If you found this helpful, **star this repository** to:
 - Help other LinkedIn professionals discover these deals
 - Show your support for open-source deal curation
 
-**Share it:** [Twitter](https://twitter.com/intent/tweet?text=Check%20out%20these%20LinkedIn%20Black%20Friday%20deals!%20https://github.com/[username]/linkedin-black-friday-deals-2025) | [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/[username]/linkedin-black-friday-deals-2025)
+**Share it:** [Twitter](https://twitter.com/intent/tweet?text=Check%20out%20these%20LinkedIn%20Black%20Friday%20deals!%20https://github.com/abhibavishi/linkedin-black-friday-deals-2025) | [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/abhibavishi/linkedin-black-friday-deals-2025)
 
 ---
 
 ## 📊 Stats
 
-- **Total Deals:** 25+
+- **Total Deals:** 37+
 - **Categories:** 8
-- **Last Updated:** November 2025
-- **Stars:** ![GitHub stars](https://img.shields.io/github/stars/[username]/linkedin-black-friday-deals-2025?style=social)
+- **Last Updated:** November 15, 2025
+- **Stars:** ![GitHub stars](https://img.shields.io/github/stars/abhibavishi/linkedin-black-friday-deals-2025?style=social)
 
 ---
 
