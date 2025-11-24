@@ -88,6 +88,8 @@ Optimize your LinkedIn profile to attract more views, connections, and opportuni
 |---|---|---|---|
 | [Profile Picture AI](https://www.profilepicture.ai/) | AI-generated professional profile pictures for LinkedIn and other platforms | Black Friday discounts available | - |
 | [LinkedIn Profile Writer](https://www.careerealism.com/) | Professional LinkedIn profile writing services and templates | Contact for pricing | - |
+| [GoStudio.ai](https://www.gostudio.ai/) | AI-generated professional headshots and profile photos designed for LinkedIn, portfolios, and personal branding. Create studio-quality portraits in minutes without photoshoots. | **30% OFF** Black Friday Deal – code **GS30** | Jan 5, 2026 |
+
 
 ---
 
